@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsAndSetsDoWhile", "LoopsAndSetsDoWhile\LoopsAndSetsDoWhile.csproj", "{5C382666-A17C-4101-A807-70047F01C595}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWDoLoops", "HWDoLoops\HWDoLoops.csproj", "{960492CA-1B05-4F18-BE65-BDAC1B603389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C382666-A17C-4101-A807-70047F01C595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C382666-A17C-4101-A807-70047F01C595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C382666-A17C-4101-A807-70047F01C595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960492CA-1B05-4F18-BE65-BDAC1B603389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960492CA-1B05-4F18-BE65-BDAC1B603389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960492CA-1B05-4F18-BE65-BDAC1B603389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960492CA-1B05-4F18-BE65-BDAC1B603389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

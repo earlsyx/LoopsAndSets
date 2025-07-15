@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWArray", "HWArray\HWArray.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{C105D5D5-6094-40FE-B938-79EFFA2485B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMList", "HMList\HMList.csproj", "{87A94E72-C63F-46A3-85FE-990B72F6D4E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C105D5D5-6094-40FE-B938-79EFFA2485B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C105D5D5-6094-40FE-B938-79EFFA2485B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C105D5D5-6094-40FE-B938-79EFFA2485B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A94E72-C63F-46A3-85FE-990B72F6D4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A94E72-C63F-46A3-85FE-990B72F6D4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A94E72-C63F-46A3-85FE-990B72F6D4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A94E72-C63F-46A3-85FE-990B72F6D4E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
